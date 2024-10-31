@@ -1,13 +1,13 @@
-/*! Calendar.js v2.12.1 - Japanese | (c) Bunoon 2024 | MIT License */
+/*! Calendar.js v2.12.0 - Japanese | (c) Bunoon 2024 | MIT License */
 var __TRANSLATION_OPTIONS = {
     "dayHeaderNames": [
         "月",
         "火",
-        "結婚した",
+        "水",
         "木",
         "金",
         "土",
-        "太陽"
+        "日"
     ],
     "dayNames": [
         "月曜日",
@@ -21,19 +21,19 @@ var __TRANSLATION_OPTIONS = {
     "dayNamesAbbreviated": [
         "月",
         "火",
-        "結婚した",
+        "水",
         "木",
         "金",
         "土",
-        "太陽"
+        "日"
     ],
     "monthNames": [
         "1月",
         "2月",
-        "行進",
+        "3月",
         "4月",
         "5月",
-        "六月",
+        "6月",
         "7月",
         "8月",
         "9月",
@@ -47,7 +47,7 @@ var __TRANSLATION_OPTIONS = {
         "3月",
         "4月",
         "5月",
-        "ジュン",
+        "6月",
         "7月",
         "8月",
         "9月",
